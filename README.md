@@ -1,4 +1,4 @@
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+![](https://github.com/Kowshal22/netflix_sql_analysis/blob/main/logo%20(1).png)
 # 🎬 Netflix SQL Analysis Project
 
 ## 📘 Overview
